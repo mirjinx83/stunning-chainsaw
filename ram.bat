@@ -1,2 +1,2 @@
-EmptyStandbyList.exe workingsets
-EmptyStandbyList.exe modifiedpagelist
+C:\Users\Administrator\Pictures\EmptyStandbyList.exe workingsets
+C:\Users\Administrator\Pictures\EmptyStandbyList.exe modifiedpagelist
